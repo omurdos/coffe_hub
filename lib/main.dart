@@ -1,6 +1,6 @@
-import 'file:///C:/Users/Murdos/AndroidStudioProjects/coffee_hub/lib/screens/home_screen.dart';
 import 'package:coffee_hub/providers/drinks_details_provider.dart';
 import 'package:coffee_hub/screens/drink_details_screen.dart';
+import 'package:coffee_hub/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
